@@ -18,7 +18,7 @@ Built with **HTML**, **CSS**, and **Bootstrap 5**, featuring a responsive layout
 | `dashboard.html` | Menu section and main dashboard showing statistics |
 | `dataview1.html` | Laptop list with search + filter option            |
 | `dataview2.html` | Detailed view of a single laptop                   |
-| `img/`           | Folder for images (e.g. logo, product pics)        |
+| `img/`           | Folder for images (logo, product pics)             |
 | `README.md`      | This documentation                                 |
 
 ---
@@ -46,10 +46,9 @@ Built with **HTML**, **CSS**, and **Bootstrap 5**, featuring a responsive layout
 1. Clone the repository:
    ```bash
    git clone https://github.com/syrashah/laptop-showcase.git
-2. Open the folder in VS Code or any editor.
-3. Right-click on index.html and open with Live Server (or in your browser).
 
 ## 🔐 Demo Login Credentials
 To access the system, use the following credentials on the login page:
-Username: admin
-Password: 1234
+
+- **Username:** admin
+- **Password:** 1234
